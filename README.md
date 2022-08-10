@@ -7,7 +7,7 @@ Eu sou um estudante de Desenvolvimento Web
 ##
 
 <div align="center">
-  <a href="https://github.com/YuriCarl">
+  <a href="https://github.com/YuriCarl" style="float=left">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YuriCarl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCarl&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -20,7 +20,6 @@ Eu sou um estudante de Desenvolvimento Web
 ##
 
 <div>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "yurioli.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-carlos-b59230226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
