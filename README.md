@@ -1,4 +1,4 @@
-##Olá, meu nome é Yuri Carlos👋 <br>
+Olá, meu nome é Yuri Carlos👋 <br>
 Eu sou um estudante de Desenvolvimento Web
 
 - 🔭 Em busca do meu primeiro emprego como Desenvolvedor Web
