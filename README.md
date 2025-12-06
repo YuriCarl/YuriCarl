@@ -22,8 +22,8 @@ Sou estudante e praticante de Ciência de Dados e Análise de Dados. Gosto de cr
 
 **Linguagens:** Python, SQL  
 **Análise & ML:** Pandas, NumPy, scikit-learn, statsmodels  
-**Visualização:** Matplotlib, Plotly, Seaborn, PowerBI
-**Automação & Infra:** n8n, Make, Git, Docker
-**Outros:** Jupyter / Colab, GitHub Actions, Excel
+**Visualização:** Matplotlib, Plotly, Seaborn, PowerBI  
+**Automação & Infra:** n8n, Make, Git, Docker  
+**Outros:** Jupyter / Colab, GitHub Actions, Excel  
 
 ---
