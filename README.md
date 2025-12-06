@@ -1,7 +1,5 @@
 # Olá 👋, eu sou o Yuri Carlos (Yuri Oli) 🚀
 
-![header](https://github.com/YuriCarl.png?size=160)
-
 > Cientista/Analista de Dados em formação • Transformo dados em decisões • Python | Pandas | ML | Automação
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurioli/)
