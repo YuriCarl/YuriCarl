@@ -15,7 +15,7 @@
 
 Data & Automation Analyst at [Tera](https://somostera.com), working at the intersection of data engineering, marketing analytics, and business intelligence.
 
-My current focus is building production-grade data infrastructure — three-layer BigQuery warehouses, automated ETL pipelines, and dashboards that connect paid media spend to actual revenue. Long-term goal: transition into an ML/AI Engineering role with a strong data science foundation.
+My current focus is building production-grade data infrastructure three-layer BigQuery warehouses, automated ETL pipelines, and dashboards that connect paid media spend to actual revenue. Long-term goal: transition into an ML/AI Engineering role with a strong data science foundation.
 
 I care about systems that are reproducible, traceable, and actually used by decision-makers.
 
