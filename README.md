@@ -24,7 +24,7 @@ I care about systems that are reproducible, traceable, and actually used by deci
 ## Current Stack
 
 **Data & Warehouse**
-`BigQuery` `SQL` `Python` `Pandas` `dbt (learning)`
+`BigQuery` `Databricks` `SQL` `Python` `Pandas` `dbt (learning)`
 
 **Automation & Orchestration**
 `n8n` `Make` `GitHub Actions`
